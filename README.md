@@ -1,3 +1,5 @@
 # hello-world
-This sucks
-It really is a headache to understand the technical terms involved with github. Hell!! I forgot to mention understanding github itself.
+Hello world!!
+
+My name is Nivas and I belong to species homo sapien. I learnt about some basics in coding in 'C', 'Python' and 'Windows Internals'.
+I'm also a bit proficient in martial arts. And finally thanks to those geeks & nerdies for bearing my unverbally, unimpressive and boring introduction.
